@@ -27,7 +27,7 @@ p lista.last
 p lista.empty?
 
 # Juntando listas
-a = [1, 2, 3]
 b = [4, 5, 6]
+a = [1, 2, 3]
 
 p resusldado = a + b

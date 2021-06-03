@@ -22,5 +22,5 @@ p 10 + 5 # retorna 5 pois o metodo foi sobrescrevido
 
 # Tudo em Ruby são Objetos
 
-p 10.even? # Informa se um número é par
 p 10.odd? # Informa se um número é ímpar
+p 10.even? # Informa se um número é par
