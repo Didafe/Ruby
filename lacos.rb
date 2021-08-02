@@ -47,4 +47,11 @@ lista.each  do |meu_valor2|
     puts "Meu valor  (usando each) é #{meu_valor2}"
 end
 
+#hash 
+
+hash =  { nome: "Dida", idade: 18 }
+
+hash.each do |chave, valor|
+    puts "Minha chave é #{chave} com o valor #{valor}"
+end
 
